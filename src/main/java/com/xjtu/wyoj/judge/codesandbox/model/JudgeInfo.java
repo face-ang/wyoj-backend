@@ -1,4 +1,4 @@
-package com.xjtu.wyoj.model.dto.questionsubmit;
+package com.xjtu.wyoj.judge.codesandbox.model;
 
 import lombok.Data;
 
